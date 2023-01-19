@@ -1,0 +1,1 @@
+{"d38ae3e0f6cbfe89e9884e0ecde23a04":"a:1:{i:0;a:2:{s:5:\"group\";s:8:\"redirect\";s:8:\"channels\";a:1:{i:0;a:2:{s:4:\"name\";s:4:\"live\";s:4:\"urls\";a:1:{i:0;s:153:\"proxy:\/\/do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9lbm5ubm55L3R2LWFyY2hpdmVzL21haW4veW91cnNtaWxlNy84ZmJmY2E1ODJiNzFkM2M5MmQ2MDhhYjA5NTk0YmM0Yy50eHQ=\";}}}}}"}

@@ -1,0 +1,1 @@
+{"b726c950a94be9d78acc41527a38b9ad":"a:1:{i:0;a:2:{s:5:\"group\";s:8:\"redirect\";s:8:\"channels\";a:1:{i:0;a:2:{s:4:\"name\";s:8:\"redirect\";s:4:\"urls\";a:1:{i:0;s:70:\"proxy:\/\/do=live&type=txt&ext=http:\/\/home.jundie.top:81\/Cat\/tv\/live.txt\";}}}}}"}
