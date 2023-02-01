@@ -642,9 +642,9 @@ CCTV5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225649/2
 CCTV5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225706/2/index.m3u8
 CCTV6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225632/2/index.m3u8
 CCTV6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225650/2/index.m3u8
-CCTV7,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225499/2/index.m3u8
 CCTV7,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225624/2/index.m3u8
 CCTV7,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225644/2/index.m3u8
+CCTV7,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225499/2/index.m3u8
 CCTV8,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225631/2/index.m3u8
 CCTV8,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225635/2/index.m3u8
 CCTV9,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225626/2/index.m3u8
@@ -661,11 +661,12 @@ CCTV14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2
 CCTV14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225639/2/index.m3u8
 CCTV14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225640/2/index.m3u8
 CCTV15,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8
-CCTV4K,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226998/index.m3u8
-4KUHD,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
+CCTV16,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8
 CCTV17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225907/2/index.m3u8
 CCTV17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225908/2/index.m3u8
 CCTV17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225909/2/index.m3u8
+CCTV4K,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226998/index.m3u8
+4KUHD,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
 CETV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225917/2/index.m3u8
 CETV4,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225937/2/index.m3u8
 CETV4,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225969/2/index.m3u8
@@ -844,7 +845,6 @@ CETV1,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/888
 江西卫视,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226594/index.m3u8
 封丘1新闻综合,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226595/index.m3u8
 上海哈哈炫动,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226596/index.m3u8
-CCTV16,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8
 驻马店3科教频道,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226598/index.m3u8
 摄影频道,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226599/index.m3u8
 广东嘉佳卡通,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226601/index.m3u8
@@ -2129,8 +2129,9 @@ CGTN,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225813/inde
 中国天气,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1&IASHttpS
 
 🌈  4K,#genre#
-CCTV4K,http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
 CCTV4K,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+CCTV4K,http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8
+CCTV4K,http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
 CCTV4K,http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8
 CCTV4K,http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8  
@@ -2169,6 +2170,9 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
+全球大片,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
+华语影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+星光影院,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 湖南电影,http://124.232.231.246:6610/000000001001/201600020005/index.m3u8?A=&IASHttpSessionId=OTT
 天映经典,http://171.108.239.13:8181/tsfile/live/1009_1.m3u8
