@@ -2143,6 +2143,7 @@ CCTV8K,http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8
 CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8  
 CCTV8K,http://117.148.179.148:80/PLTV/88888888/224/3221233350/1.m3u8
 CCTV8K,http://117.148.179.157/PLTV/88888888/224/3221233413/index.m3u8
+纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8 
 纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
 纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
@@ -2155,11 +2156,24 @@ CCTV8K,http://117.148.179.157/PLTV/88888888/224/3221233413/index.m3u8
 欢笑剧场4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8 
 爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 4K超高清电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8 
+4K超高清电影,http://159.75.85.63:5681/sxg.php
+4K影视,http://159.75.85.63:5828/4kys.php
+爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+BesTV4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+咪咕体育,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育,http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
+咪咕体育,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+芒果娱乐4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://3740480834.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=wIgAANH1UieYTeIW&secondToken=secondToken%3AlDV9er1_pa4JZ7B_HTFDHqOPHaI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MF-gW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8 
+CCTV16,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
+北京IPTV,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+ZZ4000,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 🎥  影视,#genre#
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
