@@ -36,6 +36,7 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://c-leung.homeip.net:8011/bysid/1
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://120.84.96.28:808/hls/25/index.m3u8
 翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
@@ -49,10 +50,12 @@ tvb影视,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865
 功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8 
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+无线新闻,http://c-leung.homeip.net:8012/bysid/83
 无线新闻,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=m2206a7a6925a&ct=18336&tsum=47d564f6425ee7ceb9ff1ed026f89669
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8 
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8 
 无线新闻,http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+Pearl,http://c-leung.homeip.net:8012/bysid/2
 Pearl,http://120.84.96.50:808/hls/26/index.m3u8 
 Pearl,http://120.84.96.63:808/hls/26/index.m3u8 
 Pearl,http://120.84.96.71:808/hls/26/index.m3u8 
@@ -61,6 +64,7 @@ Pearl,http://120.84.96.211:808/hls/26/index.m3u8
 Pearl,http://120.84.96.215:808/hls/26/index.m3u8 
 Pearl,http://120.84.96.221:808/hls/26/index.m3u8 
 Pearl,http://120.84.96.222:808/hls/26/index.m3u8 
+财经体育资讯台,http://c-leung.homeip.net:8012/bysid/85
 财经体育资讯台,http://120.84.96.120:808/hls/86/index.m3u8
 财经体育资讯台,http://120.84.96.50:808/hls/86/index.m3u8 
 财经体育资讯台,http://120.84.96.55:808/hls/86/index.m3u8 
@@ -69,6 +73,7 @@ Pearl,http://120.84.96.222:808/hls/26/index.m3u8
 财经体育资讯台,http://120.84.96.71:808/hls/86/index.m3u8 
 财经体育资讯台,http://120.84.96.74:808/hls/86/index.m3u8 
 J2,http://r.jdshipin.com/Nr5jq
+J2,http://c-leung.homeip.net:8012/bysid/82
 J2,http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
 J2,https://pull-l3-cny.douyincdn.com/live/e32c9af787d1f0347d306886c0f58359.m3u8
 J2,http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
@@ -85,14 +90,18 @@ J2,http://120.84.96.222:808/hls/86/index.m3u8
 星空卫视,http://120.84.96.215:808/hls/79/index.m3u8 
 星空卫视,http://120.84.96.221:808/hls/79/index.m3u8 
 星空卫视,http://120.84.96.222:808/hls/79/index.m3u8 
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港开电视,http://livetv.dnsfor.me/channel.9.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8 
 HTV3,https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+RTHK31,http://c-leung.homeip.net:8013/bysid/31
+RTHK31,http://c-leung.homeip.net:8013/bysid/31
 RTHK31,http://198.16.64.10:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 RTHK31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+RTHK32,http://c-leung.homeip.net:8013/bysid/32
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 RTHK32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
@@ -100,7 +109,9 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 RTHK32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
 VIUTV,http://r.jdshipin.com/vSJvl
+VIU TV,http://c-leung.homeip.net:8011/bysid/99
 VIUTV,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
+VIU 6,http://c-leung.homeip.net:8011/bysid/96
 VIUTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
