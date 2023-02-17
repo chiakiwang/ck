@@ -131,11 +131,8 @@
     {"key":"大屌丝","name":"👙大屌丝","type":0,"api":"https://www.caiji24.com/home/cjapi/kls6/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"咪咪","name":"👙咪咪","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"鲍鱼AV","name":"👙鲍鱼AV","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
-
-
     {"key":"影库","name":"🥇影库-","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"酷伦","name":"🥇酷伦-","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","playUrl":"https://jx.kujiexi.net/m3u8.php?url=","searchable":1,"quickSearch":1,"filterable":0},
-
     {"key":"博天堂","name":"🥇博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"JAV名优","name":"🥇JAV名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"环亚","name":"🥇环亚","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
