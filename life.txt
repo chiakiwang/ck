@@ -1,3 +1,13 @@
+虎牙-WWE,#genre#
+WWE1,https://epg.112114.xyz/huya/880223
+WWE2,https://epg.112114.xyz/huya/16619834
+WWE3,https://epg.112114.xyz/huya/19197456
+WWE4,https://epg.112114.xyz/huya/19197457
+WWE5,https://epg.112114.xyz/huya/19197455
+WWE6,https://epg.112114.xyz/huya/17455062
+WWE7,https://epg.112114.xyz/huya/19197453
+WWE8,https://epg.112114.xyz/huya/19197452
+WWE9,https://epg.112114.xyz/huya/19197460
 斗鱼直播综合一线,#genre#
 深夜恐怖影厅,http://epg.112114.xyz/douyu/3637726
 热血澎湃的动作电影,http://epg.112114.xyz/douyu/3637765
